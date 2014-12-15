@@ -1,0 +1,3 @@
+[] add argument for selection of colour scheme (divergent vs sequential)
+[] allow for more data input formats (e.g. for Qualtrics data)
+[] make it prettier
